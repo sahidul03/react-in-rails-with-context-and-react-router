@@ -1,24 +1,8 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Pre-installation:  Ruby 2.6.3p62, Rails: 6.0.2.2 and nodejs and yarn
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Step1: Clone the the project
+Step2: Go to project directory and run `bundle install`
+Step2: run `yarn install`
+Step3: run `rails s` to run the server and experience http://localhost:3000/
