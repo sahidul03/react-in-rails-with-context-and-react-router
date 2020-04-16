@@ -13,3 +13,10 @@
  *= require_tree .
  *= require_self
  */
+
+
+ .border-grey {
+     border: 1px solid #dadada;
+ }
+
+ 
